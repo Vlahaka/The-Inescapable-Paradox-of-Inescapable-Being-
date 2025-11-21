@@ -12,3 +12,14 @@
 ​The conclusion frames the human pursuit of unique purpose not as a choice, but as a cosmic duty—the necessary fulfillment of the universe's 13.8-billion-year trajectory toward self-awareness.
 
 ​A rigorous critique of modern linguistic fuzziness, determinism, and materialistic purpose, arguing that the self-aware life is the meaning the universe always required.
+
+
+---
+### License and Attribution
+
+**Author:** [Your Name or Alias]  
+**Copyright:** [Current Year] [Your Name or Alias]
+
+This work, *The Paradox of Inescapable Being*, is shared under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND 4.0).**
+
+For the full legal terms, please see the [LICENSE.md](LICENSE.md) file in this repository.
