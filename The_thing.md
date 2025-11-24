@@ -1,15 +1,15 @@
 # The Paradox of Inescapable Being
 
 *“To think deliberately is to think without restraint”*
-
+--
 ## *Chapter 1 - THE “WHY?”*
 
-What is “nothing” in your opinion?
+**What is “nothing” in your opinion?**
 
 What is the most brittle thing that can be ruined just by muttering? Silence.
 Now consider: “nothing” is even more brittle. The very moment you try to grasp it with thought, with language, with awareness, it collapses into something.
 
-So what is “nothing” to you?
+**So what is “nothing” to you?**
 Ask someone around you the same question, and watch their face. You will see the pause, the searching, the attempt to give shape to an absence. But the meaning fades almost instantly, replaced by something: darkness, emptiness, void, vacuum, absence etc. 
 
 Yet I ask you again:
@@ -17,13 +17,16 @@ What is “nothing”?
 
 If you lean toward darkness, void, or emptiness, I will argue these still imply existence.
 
-Darkness is only the absence of light.
-Void still implies a universe that can be voided.
-Emptiness needs a container.
-A vacuum still holds radiation, energy, particles.
+> Darkness is only the absence of light.
+>
+> Void still implies a universe that can be voided.
+>
+> Emptiness needs a container.
+>
+> A vacuum still holds radiation, energy, particles.
 
 Even “absence” cannot stand alone.
-Think about it, If I say “this absence is unnerving," a part of your mind immediately asks “absence of what?”. It's an incomplete thought, a relational concept that requires a counterpart to take shape. “Absence” only exists in relation to something, thus it still implies existence.
+Think about it, If I say *“this absence is unnerving,"* a part of your mind immediately asks “absence of what?”. It's an incomplete thought, a relational concept that requires a counterpart to take shape. “Absence” only exists in relation to something, thus it still implies existence.
 
 The very word “nothing” is self-defeating.
 The moment it is spoken, it becomes something, a sound, a sign, a mark in thought. True nothingness has no being of its own.
@@ -92,13 +95,13 @@ We work eight to twelve hours a day, five or six days a week. We become less awa
 The modern target of success, wealth, is utopian for the honest worker. Technology feeds us unlimited information, but language itself grows fuzzy, so that one word can stretch across everything and, in doing so, loses meaning entirely.
 
 And while we chase more financial security, our cognitive strength mellows. 
+
 We spend less time asking: 
+> What is actually important?
+> 
+> How do we divide time between what is needed, and who needs us?
 
-What is actually important? 
-
-How do we divide time between what is needed, and who needs us?
-
-I write as a fellow human who chose to think, deliberately, about what life, choice, and purpose really mean.
+**I write as a fellow human who chose to think, deliberately, about what life, choice, and purpose really mean.**
 
 So I am not preaching. I am sharing the conclusions I have reached, not as absolute truths, but as tools you may hold, question, and test against your own life.
 
@@ -114,17 +117,17 @@ Yet across social networks, the headline became: “We live in a black hole” o
 
 This can be dangerous, because what begins as simplification quickly mutates into misinformation. And misinformation reshapes the worldview of the everyday person. If someone believes “the universe is basically a black hole,” the unspoken conclusion is often: “Then we are not very important.”
 
-It is important to remember that not all interpretations of science are simplified to the point of misinformation, but rather this tendency seems to appear on social networks, and not on official platforms. 
+> It is important to remember that not all interpretations of science are simplified to the point of misinformation, but rather this tendency seems to appear on social networks, and not on official platforms. 
 
 So, this subtle diminishing of meaning, though not obvious at first, plants seeds of nihilism. Over time, it leads people to quietly deny their own place, their own influence, and their own significance in the world.
 
 But this is just one concrete example. The issue of linguistic blur runs deeper, hidden in words we take for granted every day.
 
-As I showed with the word “nothing” - one of the most overlooked and misused words in philosophy - meaning often collapses under careless use. The same is true for many other terms.
+As I showed with the word “nothing”, which is one of the most overlooked and misused words in philosophy, meaning often collapses under careless use. The same is true for many other terms.
 
-Consider the expressions: “We are 
-programmed to react this way” or “We are programmed to think like this.” 
-These metaphors come in various shapes such as: ”there is no free will”, “choice is an illusion”, ”you're not in control of your actions”, “what happened, was always meant to happen this way”, “you think you could've acted differently, but never could”, etc. 
+Consider the expressions: *“We are 
+programmed to react this way”* or *“We are programmed to think like this.”*
+These metaphors come in various shapes such as: *”there is no free will”, “choice is an illusion”, ”you're not in control of your actions”, “what happened, was always meant to happen this way”, “you think you could've acted differently, but never could”,* etc. 
 These phrases slip into daily speech, but they are in fact the quiet influence of philosophy on ordinary life. Behind them stands a school of thought called Determinism.
 
 Determinism holds that everything has a cause and effect, even our thoughts. This view is not wrong. In fact, it aligns with science. Our decisions are indeed influenced by prior conditions: family, society, environment, and even genetics. Biology and neuroscience confirm this.
@@ -133,13 +136,13 @@ The problem appears with interpretation. As determinism spread, so too did simpl
 
 Here lies the confusion:
 
-A caused event means the present is influenced by what came before.
+> A caused event means the present is influenced by what came before.
+>
+> A predetermined event means the present was always destined, inevitable, “meant to be.”
 
-A predetermined event means the present was always destined, inevitable, “meant to be.”
+**The difference is monumental.**
 
-The difference is monumental.
-
-Determinism began as a logical observation: every action has a cause. But from this seed grew a sub-branch, now very popular, that claims all events unfold linearly and inevitably, with no possibility of deviation. Hard determinism's simplified interpretation is the reason you hear metaphors like “we are programmed.”
+Determinism began as a logical observation: every action has a cause. But from this seed grew a sub-branch, now very popular, that claims all events unfold linearly and inevitably, with no possibility of deviation. Hard determinism's simplified interpretation is the reason you hear metaphors like *“we are programmed.”*
 
 Most people dismiss such statements at first, which is fair. Yet these metaphors slip into daily life under different guises, shaping thought in subtle ways.
 
@@ -148,7 +151,7 @@ Take neuroscience, for example. Recently, experiments have shown brain activity 
 But the proper interpretation is simpler: the brain receives input, processes it, and only then translates it into the language of conscious thought. The activity is not predetermined. It is processing.
 
 Now, this may seem like a big problem, but it is not as widespread as another, even more common phenomenon: 
-The distortion of the word “purpose.”
+The distortion of the word **“purpose.”**
 
 At some point in life, you have probably wondered about the purpose of the world, or your own purpose. Yet when you try to define it, the meaning slips away.
 
