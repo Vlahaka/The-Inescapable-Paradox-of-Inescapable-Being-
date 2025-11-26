@@ -764,3 +764,99 @@ We accept this answer without much thought, yet beneath it lies something profou
 When we trace our behavior from the simplest gesture of politeness to the grandest moral decisions, a single thread runs through them all: awareness of the other. Every act of restraint, every moment of patience, every instinct to protect or comfort another life, these are echoes of the same structure that began with the impossibility of “nothing”. From distinction came awareness, from awareness came empathy, and from empathy, civilization itself. The completion of the self does not lie in isolation or supremacy, but in the recognition that to preserve others is to preserve ourselves.
 
 When we look at us from this angle, we can clearly see that free will, the individual’s ability to resist causality, becomes the very precondition for morality. Through this resistance, we transcend the self for the benefit of others. Hence, morality is the collective expression of free will: the shared mechanism we have evolved not merely to coexist, but to value and appreciate one another.
+
+--
+## Chapter 9 - Practice makes perfect 
+
+Were you expecting this rambling to finally end?
+Did I deceive your expectations?
+
+Well, I’m not sorry if I did, because now we arrive at the point where the “ought to” must face reality.
+
+This chapter marks the moment when the ladder I boldly call “the ladder of consciousness” meets the world it tries to describe.
+Here we test the framework against the lived concepts that shape human life: morality, ethics, altruism, sacrifice, guilt, kindness, the need for laws, the demand for justice.
+
+It is my conviction that if a framework built from first principles can account for the structures of reality without needing to invent additional layers or auxiliary systems, then it stands as a valid and coherent framework.
+
+So let us recall the ladder beginning from the premise that existence is necessary:
+
+Distinction → Awareness → Cognition → Memory → Language → Thought → Choice → Sentience → Consciousness
+
+This ladder culminates in the emergence of free will, the capacity of the most sophisticated minds to transcend the most obvious deterministic outcomes and now we apply it.
+
+Morality has always posed difficulties in philosophy.
+Although we possess the common-sense ability to distinguish between right and wrong, it is precisely the origin of this sense, so universal, so immediate and so unquestioned, that we seem to lack knowledge of.
+
+Why are we able to tell what is good and what is bad?
+Is our moral behavior merely obedience to external rules?
+
+For instance: do we follow laws only because we fear the consequences of breaking them?
+If the answer were yes, then morality collapses into a simple equation: “Stealing is wrong only if you get caught.”
+
+But that conclusion rings false to almost everyone.
+
+Consider another problem: why should we respect the right to live of someone who did not?
+If a murderer has violated the most fundamental right of another human being, is imprisonment truly the adequate moral response?
+Should one who disregarded life still be entitled to the protection of society?
+
+These are the kinds of tensions morality presents, questions whose answers we seem to “feel” more than we explicitly understand.
+Our grasp on them exists, but mostly because of lived experience, cultural inheritance, and historical memory.
+
+Have you ever noticed that when you ask anyone, even a stranger, “Is killing justified?”
+Their first instinct is to clarify what you mean by “killing.”
+
+If the answer is animals, most people reply that it can be justified, usually with conditions: because we need to eat, because survival requires it, because moderation and respect should guide it.
+
+But if you press further “How about humans?”, the response changes instantly.
+The answer becomes swift and unwavering: “No. Murder is not justified.”
+
+This pattern is striking.
+Across the entire planet, every society: in the Americas, in Europe, in Asia, in Africa, has laws that protect human life.
+Every justice system defends the individual’s right to live.
+
+This pattern reveals a global consensus: preservation of human life (and, by extension, life in general) is a universal moral instinct.
+
+In other words, humanity has taken the instinct for self-preservation and extended it outward, granting the right to live not only to oneself but to all peers within the human community.
+
+How do we explain the fact that the vast majority of human beings on this planet instinctively believe that life must be protected, cared for, and nurtured?
+
+The answer follows naturally from the framework we have built so far.
+
+If free will is the evolved cognitive capacity to overcome the most obvious deterministic impulse, then morality is this capacity extended outward, from the individual self to the surrounding community, or in other words, morality is the collective manifestation of free will. 
+
+Human beings value life because each person values their own life.
+But consciousness (the ability to reflect on oneself) and free will (the ability to transcend selfish immediacy) combine to produce something extraordinary:
+the capacity to care for another human being enough to respect their right to live as well.
+
+Morality, in this sense, is not a commandment nor a cultural invention.
+It is the natural outward expansion of a self-preserving consciousness that has learned to see itself in others.
+This outward extension of self-preservation forms the root of kindness, altruism, sacrifice, and justice.
+
+We can be kind to one another because we are capable of being kind to ourselves.
+The standard we hold for our own well-being naturally extends outward: first to our families, then to our friends, our colleagues, and even to strangers.
+
+We are not polite because we fear punishment, we are polite because we respect ourselves enough to desire the same respect in return.
+Courtesy is not obedience, it is reciprocity.
+It is the outward reflection of an inward dignity.
+
+And when we sacrifice our time and effort in service of another person, we are demonstrating something remarkable:
+that we have evolved beyond the narrow limitations of deterministic self-interest.
+We choose, freely, to value someone else’s well-being alongside our own.
+
+Perhaps this has happened to you, or to someone close to you, or you have simply heard of it.
+A cashier gives too much change, the customer notices the mistake, and instead of turning away with an unearned gain, they stop, correct the error, and return the extra money.
+This small and trivial gesture is one of the clearest everyday manifestations of free will and morality.
+
+No one would notice if the customer kept the extra coins.
+It would be an effortless benefit, acquired without consequence.
+No one would know, except the customer themselves.
+
+But when they choose to return the money, something profound occurs:
+they resist the immediate, obvious, self-serving option and instead relinquish the advantage.
+They do so because they recognise it would harm the cashier.
+They understand that the cashier might be held responsible later, might face trouble for a mistake they did not intend.
+
+By returning the excess change, the customer shows that they value the well-being of another person, even a stranger, enough to correct an error that no one else would ever see.
+
+This is morality in action.
+This is free will overcoming determinism.
