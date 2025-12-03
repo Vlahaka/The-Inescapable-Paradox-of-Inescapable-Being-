@@ -860,3 +860,32 @@ By returning the excess change, the customer shows that they value the well-bein
 
 This is morality in action.
 This is free will overcoming determinism.
+
+Of course, this situation can be analyzed and interpreted in countless ways.
+For example, a professional philosopher, cultivated in the works of legendary thinkers such as Friedrich Nietzsche, might push back and argue that the customer did not truly act with the cashier’s well-being in mind, but rather from a subtler form of self-interest. In this view, returning the extra money is not an expression of altruistic free will at all, but a way to satisfy an internal desire to feel noble, to reaffirm a moral self-image, or to uphold values absorbed from society since childhood.
+From that frame, the action is performed not for the other, but to service a morality instilled by the “herd.”
+
+This counter-argument is, on the surface, devastating to my definition of free will. It seems to turn my entire concept of “resistance to the most obvious outcome” on its head once the subjective experience is brought into the picture. And I will admit: I have felt this myself. I have helped someone and immediately thought, “That is my good deed for the day,” as if goodness were a quota and morality a daily chore imposed upon me. Nietzschean critique is sharp precisely because it exposes this internal psychological framing.
+
+Yet the devastation dissolves the moment we examine what my definition was actually meant to describe.
+
+Resistance to the most obvious outcome does not attempt to capture the subjective interpretation of the act, because it was never intended to. My definition of free will, which I will henceforth name “Nilogist Free Will”, describes the mechanical architecture of how such decisions arise at all. It explains why the subjective desire “to feel noble,” or “to be a good person,” exists in the first place. It identifies the structural process through which virtue emerges, rather than collapsing into simplistic deterministic impulses.
+
+Let us apply the Ladder of Consciousness.
+
+The customer is aware of their boundaries, because they are finite beings with a within and a without.
+Perception registers the cashier as another distinct form; memory stores their presence; cognition acknowledges that this person is a separate identity, another human subject. Language and memory intertwine under the pressure of cognition, generating thoughts such as: “This person must feel as important and unique to themselves as I do.”
+Possibilities emerge when cognition recognizes the mistake: an internal tension arises “If I keep this money, it benefits me” ,“No one would notice.”
+Sentience amplifies this tension as emotional excitement.
+Self-observation, or consciousness intervenes: “But would that action reflect who I am? Do I need this money that badly?”
+
+Then free will emerges and it collapses the field of possibilities not toward the easiest gain, but toward the outcome that aligns with the preservation of another’s well-being
+“They will be missing money at the end of the day. They may have to repay it out of their own pocket.”
+And so the action crystallizes:
+“Sorry, it seems you have given me too much change.”
+
+How the subjective experience narrates this decision is entirely irrelevant.
+This subjective narration, in my opinion, occurs not as the cause of the action, but as a post-hoc reinforcement mechanism, in other words, a way for the mind to store, justify, and ultimately reproduce the same outcome in the future.
+
+Thus the important fact is that the actual outcome favored the other rather than the self.
+And this resistance against the effortless, deterministic impulse is precisely the Nilogist expression of free will.
